@@ -28,4 +28,4 @@ All the main ideas are witten in file ***proposal.pdf*** and ***report.pdf***.
 
 ### 6. File ***Aws Starbucks Capstone.html*** for easy review
 
-### [Here is my blog post](https://ngandn18.github.io/project/proj_5.htm)
+### [Here is my blog post](https://ngandn18.github.io/project/proj_5.html)
