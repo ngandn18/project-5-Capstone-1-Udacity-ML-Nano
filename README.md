@@ -36,4 +36,4 @@ This project implements Autogluon Tabular models on AWS Sagemaker.
 
 ### 6. File ***Aws Starbucks Capstone.html*** for easy review
 
-### [Here is my blog post](https://ngandn18.github.io/intro/proj_5.html)
+### [Here is my blog post](https://ngandn18.github.io/up5/)
